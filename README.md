@@ -36,7 +36,7 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 | 🌐 Portfólio pessoal | Portfólio pessoal para praticar os conceitos de Web Dev | [Acessar](https://github.com/ReverseYuji049/portfolio.git) |
 | 📄 Anotações Full-Stack | Anotações do curso de Full-Stack da Udemy | [Acessar](https://docs.google.com/document/d/1uq1KzMNpPxEbB7nRK7SfGmIB_fDSsB6wEaAHbxEMUHs/edit?usp=sharing) |
 | 🗄️ Repositório Godot | Práticas do curso de Godot do prof. Rafael Forbeck no Youtube | [Acessar](https://github.com/ReverseYuji049/projeto-1.git) |
-| 📄 Anotações Godot | Anotações sobre o curso de Godot do prof. Rafael Forbeck no Youtube | [Acessar](COLOQUE_AQUI_O_LINK) |
+| 📄 Anotações Godot | Anotações sobre o curso de Godot do prof. Rafael Forbeck no Youtube | [Acessar](https://docs.google.com/document/d/164iZWSXCa7kuANvJCHlb0u4wg72ixWEzVGrCxzJFT6c/edit?usp=sharing) |
 | 📁 Google Drive - Obscura | Arquivos e materiais sobre Game Dev | [Acessar](https://drive.google.com/drive/folders/1uBlOD5ariPldJ1lzlnMDFczkXortsWxQ?usp=sharing) |
 
 

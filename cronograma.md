@@ -19,7 +19,7 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 |:---:|---|---|---|---|:---:|
 | **Segunda** | Java Udemy | Generics, HashCode e Equals | SQL | Armazenamento e Índices | — |
 | **Terça** | GitHub | Repositório NPI | Grupo de Jogos | Organização de Aulas | — | 
-| **Quarta** | WebDev | Revisão de CSS/JS | SQL | Controle de Concorrência | — | 
+| **Quarta** | Artigo Científico | Correções | SQL | Controle de Concorrência | — | 
 | **Quinta** | Grupo de Jogos | Entrega 5 | Grupo de Jogos | Entrega 5 | ATV1 UML |
 
 ---

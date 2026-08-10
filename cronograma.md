@@ -17,10 +17,10 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 
 | Dia | Estudo | Tópicos | Estudo | Tópicos | Atividades Acadêmicas 
 |:---:|---|---|---|---|:---:|
-| **Segunda** | Java Udemy | Generics, HashCode e Equals | SQL | Armazenamento e Índices | — |
-| **Terça** | GitHub | Repositório NPI | Grupo de Jogos | Organização de Aulas | — | 
-| **Quarta** | Artigo Científico | Correções | Currículo | Atualização de Currículo | — | 
-| **Quinta** | Grupo de Jogos | Entrega 5 | Grupo de Jogos | Entrega 5 | ATV1 UML |
+| **Segunda** | Atividade B-Tree | Prática de Árvore B | Preparação de Aula | Revisão de Conteúdos do Godot | ATV B-Tree |
+| **Terça** | Java Udemy | HashCode, Equals e Set | Java Udemy | Set | — | 
+| **Quarta** | JavaScript | Projeto | Godot Engine | Entrega 5 | — | 
+| **Quinta** | Grupo de Jogos | Entrega 5 | Grupo de Jogos | Entrega 5 | — |
 
 ---
 

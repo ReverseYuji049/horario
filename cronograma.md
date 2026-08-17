@@ -17,10 +17,10 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 
 | Dia | Estudo | Tópicos | Estudo | Tópicos | Atividades Acadêmicas 
 |:---:|---|---|---|---|:---:|
-| **Segunda** | Atividade B+ Tree | Prática de Árvore B+ | Preparação de Aula | Revisão de Conteúdos do Godot | —  |
-| **Terça** | Aula de Japonês | Hiragana e Katakana | Incubadora | Introdução | — | 
-| **Quarta** | ATV1 - Paradigmas de Programação | Java e Python | Grupo de Jogos | Alinhamento de Equipe | ATV1 - Paradigmas de Programação | 
-| **Quinta** | Grupo de Jogos | Reestruturação | Grupo de Jogos | Entrega 5 | ATV B+ Tree |
+| **Segunda** | Java Udemy | HashCode e Equals | Java Udemy | HashCode e Equals | —  |
+| **Terça** | Grupo de Jogos | Entrega 6 | SQL | Revisão | — | 
+| **Quarta** | JavaScript | Revisão | JavaScript | Revisão | ATV1 - Paradigmas de Programação | 
+| **Quinta** | Grupo de Jogos | Reestruturação | Grupo de Jogos |  | ATV B+ Tree |
 
 ---
 

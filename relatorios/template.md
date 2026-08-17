@@ -6,7 +6,7 @@
 
 ---
 
-## Java
+## N/A
 
 ### Conteúdo estudado
 
@@ -18,9 +18,9 @@ N/A
 
 ### Arquivos produzidos
 
-- [Exemplos Práticos](https://github.com/ReverseYuji049/javaUdemy/tree/section17-generics-set-map)
+- [Exemplos Práticos](exemplo)
 
-## 🗄️ N/A
+## N/A
 
 ### Conteúdo estudado
 
@@ -34,7 +34,7 @@ N/A
 
 ### Arquivos produzidos
 
-- [Exemplos Práticos](https://github.com/ReverseYuji049/javaUdemy/tree/section17-generics-set-map)
+- [Exemplos Práticos](exemplo)
 
 ---
 

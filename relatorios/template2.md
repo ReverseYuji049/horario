@@ -23,7 +23,7 @@
 
 ### Arquivos produzidos
 
-- [Exercício sobre Generics](../java/exercicios/GenericsExemplo.java)
+- [Exemplo](exemplo)
 
 ### Dificuldades encontradas
 
@@ -50,7 +50,7 @@
 
 ### Arquivos produzidos
 
-- [Consultas SQL](../sql/consultas/indices.sql)
+- [Exemplo](exemplo)
 
 ### Resultado
 
@@ -62,8 +62,8 @@
 
 | Área | Situação |
 |---|:---:|
-| Java | 🟢 Concluído |
-| SQL | 🟢 Concluído |
+| Exemplo | 🟢 Concluído |
+| Exemplo | 🟢 Concluído |
 
 **Tempo total de estudo:** `3 horas`
 

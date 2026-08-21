@@ -20,7 +20,7 @@ Participação na reunião semanal de Grupo de Jogos Obscura:
 
 ### Arquivos produzidos
 
-- [Exemplos Práticos](https://github.com/ReverseYuji049/javaUdemy/tree/section17-generics-set-map)
+- [Exemplos Práticos](exemplo)
 
 ### Imagem
 

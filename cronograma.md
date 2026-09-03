@@ -17,10 +17,10 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 
 | Dia | Estudo | Tópicos | Estudo | Tópicos | Atividades Acadêmicas 
 |:---:|---|---|---|---|:---:|
-| **Segunda** | Java Udemy | Map | Java Udemy | Map | ATV 3: Diagrama de Sequência |
-| **Terça** | JavaScript | Revisão | JavaScript | Revisão | — | 
-| **Quarta** | Grupo de Jogos | Entrega 6.2 | JavaScript | Revisão | —  | 
-| **Quinta** | Grupo de Jogos | Entrega 6.2 | Grupo de Jogos | Entrega 6.2  | —  |
+| **Segunda** | Java Udemy | Programação Funcional | Java Udemy | Programação Funcional | —  |
+| **Terça** | —  | —  | —  | —  | — | 
+| **Quarta** | Banco de Dados Avançado | ATV SQL | —  | —  | ATV Paradigmas de Programação  | 
+| **Quinta** | Grupo de Jogos | Entrega 6.2 | Grupo de Jogos | Entrega 6.2  | ATV SQL |
 
 ---
 

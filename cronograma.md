@@ -17,10 +17,10 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 
 | Dia | Estudo | Tópicos | Estudo | Tópicos | Atividades Acadêmicas 
 |:---:|---|---|---|---|:---:|
-| **Segunda** | Java Udemy | Programação Funcional | Java Udemy | Programação Funcional | —  |
+| **Segunda** | —  | —  | —  | —  | —  |
 | **Terça** | —  | —  | —  | —  | — | 
-| **Quarta** | Banco de Dados Avançado | ATV SQL | —  | —  | ATV Paradigmas de Programação  | 
-| **Quinta** | Grupo de Jogos | Entrega 6.2 | Grupo de Jogos | Entrega 6.2  | ATV SQL |
+| **Quarta** | —  | —  | —  | —  | ATV Paradigmas de Programação  | 
+| **Quinta** | ATV2 SQL | —  | Avaliação UML | —   | ATV2 SQL |
 
 ---
 

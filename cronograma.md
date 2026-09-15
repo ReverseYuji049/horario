@@ -31,6 +31,7 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 | Recurso | Descrição | Link |
 |---|---|---|
 | 📄 Estudos | Anotações sobre meus estudos gerais da área de T.I | [Acessar](https://docs.google.com/document/d/1Fdlpz_PSqpoqpLqKxFuMuj76JS_zx_KPEwVm1kyXU0M/edit?usp=sharing) |
+| ☕ Repositório da Bootcamp Trilha IA | Trilha de IA com Python | [Acessar](https://gitlab.com/bootcamp2026/bootcamp2026) |
 | ☕ Repositório de Java Udemy | Práticas do curso de Java do prof. Nelio Alves na Udemy | [Acessar](https://github.com/ReverseYuji049/javaUdemy.git) |
 | 📄 Anotações Java Udemy | Anotações sobre o do curso de Java do prof. Nelio Alves na Udemy | [Acessar](https://docs.google.com/document/d/1tFHBd9bmCJAGDJievy6REsAU4O7x8531ozmLPAeexJI/edit?usp=sharing) |
 | 🌐 Portfólio pessoal | Portfólio pessoal para praticar os conceitos de Web Dev | [Acessar](https://github.com/ReverseYuji049/portfolio.git) |
@@ -42,4 +43,6 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 | 📁 Google Drive - Obscura | Arquivos e materiais sobre Game Dev | [Acessar](https://github.com/Monteinho01/Projeto_01_endless_gnome.git) |
 
 ---
+
+
 

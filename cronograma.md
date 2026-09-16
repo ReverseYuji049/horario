@@ -17,10 +17,10 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 
 | Dia | Estudo | Tópicos | Estudo | Tópicos | Atividades Acadêmicas 
 |:---:|---|---|---|---|:---:|
-| **Segunda** | —  | —  | —  | —  | —  |
-| **Terça** | —  | —  | —  | —  | — | 
-| **Quarta** | —  | —  | —  | —  | ATV Paradigmas de Programação  | 
-| **Quinta** | ATV2 SQL | —  | Avaliação UML | —   | ATV2 SQL |
+| **Segunda** | Banco de Dados  | Estudo para Avaliação  | UCDs  | Portal Canvas  | —  |
+| **Terça** | UCD  | Portal Canvas  | Paradigmas de Programação | Estudo para Avaliação  | — | 
+| **Quarta** | Paradigmas de Programação  | Estudo para Avaliação  | —  | —  | —   | 
+| **Quinta** | Grupo de Jogos  | —  | UML  | Trabalho Final UML   | Trabalho Final UML |
 
 ---
 

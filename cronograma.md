@@ -16,11 +16,11 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 ## 🗓️ Cronograma de Estudos
 
 | Dia | Estudo | Tópicos | Estudo | Tópicos | Atividades Acadêmicas |
-| :---: | - | - | - | -| :---: |
-| **Segunda** | Python | Pandas | Python | Seaborn, Matplotlib | —  |
-| **Terça** | Grupo de Jogos  | Desenvolvimento de Sprite | Grupo de Jogos | Desenvolvimento de Slides  | —  |
-| **Quarta** | Grupo de Jogos | GitHub | Grupo de Jogos  | Desenvolvimento de Sprites | — |
-| **Quinta** | Grupo de Jogos | Filme | Grupo de Jogos | GitHub | — |
+| :-: | - | - | -| - | :-: |
+| **Segunda** | Machine Learning | Algoritmos | Machine Learning | Algoritmos | — |
+| **Terça** | Machine Learning | Algoritmos | Machine Learning | Algoritmos | — |
+| **Quarta** | Java Udemy | Interface Funcional | Java Udemy | Predicate | — |
+| **Quinta** | Grupo de Jogos | Atribuição de Tarefas | Grupo de Jogos | Atribuição de Tarefas | — |
 
 ---
 
@@ -28,9 +28,9 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 
 > Aqui estão links e materiais adicionais dos meus estudos como repositórios, Google Docs, Google Drives etc:
 
-| Recurso | Descrição | Link |
-| - | - | - |
-| 📄 Estudos | Anotações sobre meus estudos gerais da área de T.I                                         | [Acessar](https://docs.google.com/document/d/1Fdlpz_PSqpoqpLqKxFuMuj76JS_zx_KPEwVm1kyXU0M/edit?usp=sharing) |
+| Recurso                               | Descrição                                                                                   | Link                                                                                                       |
+| ------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 📄 Estudos                            | Anotações sobre meus estudos gerais da área de T.I                                         | [Acessar](https://docs.google.com/document/d/1Fdlpz_PSqpoqpLqKxFuMuj76JS_zx_KPEwVm1kyXU0M/edit?usp=sharing) |
 | ☕ Repositório da Bootcamp Trilha IA | Trilha de IA com Python                                                                       | [Acessar](https://gitlab.com/bootcamp2026/bootcamp2026)                                                     |
 | ☕ Repositório de Java Udemy         | Práticas do curso de Java do prof. Nelio Alves na Udemy                                      | [Acessar](https://github.com/ReverseYuji049/javaUdemy.git)                                                  |
 | 📄 Anotações Java Udemy             | Anotações sobre o do curso de Java do prof. Nelio Alves na Udemy                            | [Acessar](https://docs.google.com/document/d/1tFHBd9bmCJAGDJievy6REsAU4O7x8531ozmLPAeexJI/edit?usp=sharing) |

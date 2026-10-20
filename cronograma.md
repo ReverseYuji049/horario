@@ -17,9 +17,9 @@ Além de servir como um registro da evolução acadêmica e prática, este repos
 
 | Dia | Estudo | Tópicos | Estudo | Tópicos | Atividades Acadêmicas |
 | :-: | - | - | -| - | :-: |
-| **Segunda** | Machine Learning | Algoritmos | Machine Learning | Algoritmos | — |
+| **Segunda** | Machine Learning | Reconhecimento de Imagens |ML e Data Science Udemy | Tratamento de Dados| — |
 | **Terça** | Machine Learning | Algoritmos | Machine Learning | Algoritmos | — |
-| **Quarta** | Java Udemy | Interface Funcional | Java Udemy | Predicate | — |
+| **Quarta** | AI Ultimatix|  —| ML e Data Science Udemy | — | — |
 | **Quinta** | Grupo de Jogos | Atribuição de Tarefas | Grupo de Jogos | Atribuição de Tarefas | — |
 
 ---
